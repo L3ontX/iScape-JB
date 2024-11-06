@@ -40,7 +40,6 @@ iPhone Supported Models A9-A15 (iOS 15.6+)
 	•	iPhone 7 / 7 Plus – A10 Fusion
 	•	iPhone 8 / 8 Plus – A11 Bionic
 	•	iPhone X – A11 Bionic
-	•	iPhone XR – A12 Bionic (untested)
 	•	iPhone XS / XS Max – A12 Bionic
 	•	iPhone 11 – A13 Bionic (might have cellurar issue, mostly eSIM)
 	•	iPhone 11 Pro / 11 Pro Max – A13 Bionic
@@ -48,5 +47,3 @@ iPhone Supported Models A9-A15 (iOS 15.6+)
 	•	iPhone 12 mini / 12 – A14 Bionic
 	•	iPhone 12 Pro / 12 Pro Max – A14 Bionic
 	•	iPhone 13 mini / 13 – A15 Bionic
-	•	iPhone 13 Pro / 13 Pro Max – A15 Bionic (untested, might have issues)
-	•	iPhone SE (3rd generation) – A15 Bionic
