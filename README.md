@@ -14,7 +14,9 @@ ________________________________________________________________________________
 Known Bugs (they will all be fixed in 1.0)
 
 On A14/A15 devices, in some ocassions, Face ID might be broken temporarily. (fixable)
+
 On A12X iPads, OTA updates MIGHT be blocked from Apple's servers. (probably fixable)
+
 On A13 devices (mostly iPhones), might have a problem with cellurar (fixable)
 ___________________________________________________________________________________
 𝐢𝐏𝐚𝐝𝐬
